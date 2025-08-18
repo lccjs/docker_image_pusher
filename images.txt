@@ -1,1 +1,1 @@
- sonarqube:10-community
+ postgres:15-alpine
