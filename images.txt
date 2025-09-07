@@ -1,1 +1,1 @@
-openjdk:17-jdk-slim
+osixia/openldap:1.5.0
