@@ -1,1 +1,1 @@
-rancher/rancher:2.7.5
+rancher/rancher:2.7.9
